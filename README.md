@@ -1,3 +1,6 @@
+
+[![Spring Cloud Azure](https://badges.gitter.im/spring-cloud/spring-cloud-azure.svg)](https://gitter.im/azure-spring-cloud/community)
+
 # spring-cloud-azure
 
 This project lists the ongoing efforts being worked on in conjunction with Microsoft
